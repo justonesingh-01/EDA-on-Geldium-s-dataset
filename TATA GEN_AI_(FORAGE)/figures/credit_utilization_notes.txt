@@ -1,0 +1,1 @@
+Pct Credit_Utilization > 1: 0.80%\n
